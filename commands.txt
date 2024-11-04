@@ -12,7 +12,7 @@ $ yum install java-11-amazon-corretto -y
 $ sudo yum install jenkins -y
 $ sudo systemctl enable jenkins       //Enable the Jenkins service to start at boot
 $ sudo systemctl start jenkins        //Start Jenkins as a service
-$ java -version
+$ java -versionv 
 $ javac -version
 $ systemctl status jenkins
 ===============================Install and Configure Maven==================================
